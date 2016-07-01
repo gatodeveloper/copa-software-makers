@@ -38,3 +38,15 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Daniel Naranjo - [@Bound3R](https://github.com/Bound3R)
 * ...
 
+
+### [rokk3rlabs](http://www.rokk3rlabs.com/)
+
+* Miguel Orjuela - [miguelorjuela](https://github.com/miguelorjuela)
+* Diego Ribero - [diegoribero](https://github.com/diegoribero)
+* Andrei Piza
+* Jhon Tovar
+* Brayan Tellez
+* Mauricio Pradilla
+* Simon Chamorro
+* Diego Santiesteban - [gato_developer](https://twitter.com/gato_developer)
+
